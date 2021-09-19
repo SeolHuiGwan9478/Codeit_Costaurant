@@ -28,3 +28,9 @@ python manage.py runserver
 ### Frontend
 
 <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+
+#Web Image
+### index.html
+![image](https://user-images.githubusercontent.com/67581495/133916748-187231e0-c14c-42c6-b9c7-b8900c2f1231.png)
+### detail.html
+![image](https://user-images.githubusercontent.com/67581495/133916798-6f14d7a8-45ab-44d7-b84a-9b2f222e9951.png)
